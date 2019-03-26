@@ -56,6 +56,7 @@ o	Consider to run in parallel
 •	Consider mock services to simulate a  wider scenarios 
 
 3.	How would you approach running the same tests across mobile devices and different browsers?
+
 •	The devices and browsers should be configurable 
 •	The test needs to be able to specify the browser and the environment configuration
 •	Define a config file that contains the configuration of the mobile devices 
