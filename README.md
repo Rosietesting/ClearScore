@@ -8,9 +8,12 @@ I have created a maven project implementing the  page object model. I have writt
 
 About the tests:
 
-Cookies : I have written some test to check the cookies of the website, they can be found in CookieNotificationTest.java. This is a basic test to check  what cookies have  been set up  but also to interact with them
+Cookies : I have written some test to check the cookies of the website, they can be found in CookieNotificationTest.java. This is a basic test to check  what cookies have  been set up  but also to interact with them.
+
 Saving calculator : I have created some test around the scores that the calculator can provide and have interact with a slider to change the values and check results in the total score section.
+
 API Loging : I wrote a test using  reassured to check the results of the api when there is an incorrect user or password entered in the website. I have implemented the build pattern to write the test. ( test can be found UnknownEmailAccountLogin.java package package com.clearScore.test.scenario)
+
 Test reports : I have used maven-surefire-report to run the test reports. 
 
 Other considerations :
